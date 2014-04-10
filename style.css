@@ -1,0 +1,53 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Belgrano', serif;
+    line-height: 1.4em;
+    color: #222222;
+    margin: 10px 0;
+}
+
+h4, h5 {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5em;
+    color: #555555;
+    margin: 10px 0;
+}
+
+.section {
+    border-bottom: 1px solid #555555;
+}
+
+.cover {
+    background: url(cover.jpg) no-repeat center center;
+    background-size: cover;
+    height: 380px;
+}
+
+.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.product-name {
+    font-family: 'Architects Daughter', cursive;
+    padding-top: 100px;
+    color: #ffffff;
+    text-shadow: 0 3px 1px rgba(0, 0, 0, .40);
+}
+
+.product-tagline {
+    font-family: 'Architects Daughter', cursive;
+    color: #ffffff;
+}
