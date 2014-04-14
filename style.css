@@ -27,22 +27,9 @@ h4, h5 {
     height: 380px;
 }
 
-.navbar-inverse {
-    background-color: transparent;
-    border-color: transparent;
-}
-
-.navbar-inverse .navbar-brand {
-    color: #ffffff;
-}
-
-.navbar-inverse .navbar-nav > li > a {
-    color: #ffffff;
-}
-
 .product-name {
     font-family: 'Architects Daughter', cursive;
-    padding-top: 100px;
+    padding-top: 50px;
     color: #ffffff;
     text-shadow: 0 3px 1px rgba(0, 0, 0, .40);
 }
