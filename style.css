@@ -38,3 +38,9 @@ h4, h5 {
     font-family: 'Architects Daughter', cursive;
     color: #ffffff;
 }
+
+.play-logo {
+    margin: 0 auto;
+    height: 60px;
+    width: 185px;
+}
